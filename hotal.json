@@ -1,0 +1,21 @@
+ [
+   {
+     "img" : "assets/img.png",
+     "title" : "London",
+      "price" : "$40/ night"
+   },
+   {
+     "img" : "assets/img_1.png",
+     "title" : "Hongkong",
+     "price" : "$80/ night"
+
+
+   },
+   {
+     "img" : "assets/th.jpg",
+     "title" : "Singapor",
+     "price" : "$120/ night"
+
+
+   }
+ ]
